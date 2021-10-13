@@ -1,0 +1,8 @@
+Elements in Shapes container: 3
+1) This is Sphere: radius = 1; Density = 1; Area = 12.5664
+2) This is Parallelepiped: first_edge = 1; second_edge = 2; third_edge = 3; Density = 1; Area = 22
+3) This is Right Tetrahedron: length_of_edge = 1; Density = 1; Area = 1.73205
+Elements in Shapes container: 3
+1) This is Parallelepiped: first_edge = 1; second_edge = 2; third_edge = 3; Density = 1; Area = 22
+2) This is Sphere: radius = 1; Density = 1; Area = 12.5664
+3) This is Right Tetrahedron: length_of_edge = 1; Density = 1; Area = 1.73205

@@ -1,0 +1,52 @@
+Elements in Shapes container: 25
+1) This is Parallelepiped: first_edge = 15; second_edge = 13; third_edge = 10; Density = 17; Area = 950
+2) This is Parallelepiped: first_edge = 19; second_edge = 18; third_edge = 2; Density = 5; Area = 832
+3) This is Parallelepiped: first_edge = 12; second_edge = 15; third_edge = 13; Density = 10; Area = 1062
+4) This is Parallelepiped: first_edge = 19; second_edge = 14; third_edge = 14; Density = 19; Area = 1456
+5) This is Parallelepiped: first_edge = 2; second_edge = 15; third_edge = 14; Density = 17; Area = 536
+6) This is Parallelepiped: first_edge = 8; second_edge = 18; third_edge = 9; Density = 3; Area = 756
+7) This is Right Tetrahedron: length_of_edge = 13; Density = 13; Area = 292.717
+8) This is Right Tetrahedron: length_of_edge = 3; Density = 19; Area = 15.5885
+9) This is Right Tetrahedron: length_of_edge = 1; Density = 19; Area = 1.73205
+10) This is Parallelepiped: first_edge = 14; second_edge = 4; third_edge = 20; Density = 19; Area = 832
+11) This is Right Tetrahedron: length_of_edge = 6; Density = 7; Area = 62.3538
+12) This is Parallelepiped: first_edge = 1; second_edge = 20; third_edge = 8; Density = 6; Area = 376
+13) This is Sphere: radius = 18; Density = 3; Area = 4071.5
+14) This is Parallelepiped: first_edge = 3; second_edge = 5; third_edge = 10; Density = 5; Area = 190
+15) This is Parallelepiped: first_edge = 3; second_edge = 4; third_edge = 17; Density = 3; Area = 262
+16) This is Right Tetrahedron: length_of_edge = 16; Density = 10; Area = 443.405
+17) This is Right Tetrahedron: length_of_edge = 7; Density = 13; Area = 84.8705
+18) This is Right Tetrahedron: length_of_edge = 5; Density = 1; Area = 43.3013
+19) This is Parallelepiped: first_edge = 19; second_edge = 19; third_edge = 14; Density = 11; Area = 1786
+20) This is Parallelepiped: first_edge = 20; second_edge = 15; third_edge = 2; Density = 4; Area = 740
+21) This is Sphere: radius = 16; Density = 17; Area = 3216.99
+22) This is Right Tetrahedron: length_of_edge = 11; Density = 20; Area = 209.578
+23) This is Sphere: radius = 14; Density = 10; Area = 2463.01
+24) This is Parallelepiped: first_edge = 12; second_edge = 16; third_edge = 11; Density = 11; Area = 1000
+25) This is Sphere: radius = 3; Density = 4; Area = 113.097
+Elements in Shapes container: 25
+1) This is Sphere: radius = 18; Density = 3; Area = 4071.5
+2) This is Sphere: radius = 16; Density = 17; Area = 3216.99
+3) This is Sphere: radius = 14; Density = 10; Area = 2463.01
+4) This is Parallelepiped: first_edge = 19; second_edge = 19; third_edge = 14; Density = 11; Area = 1786
+5) This is Parallelepiped: first_edge = 19; second_edge = 14; third_edge = 14; Density = 19; Area = 1456
+6) This is Parallelepiped: first_edge = 12; second_edge = 15; third_edge = 13; Density = 10; Area = 1062
+7) This is Parallelepiped: first_edge = 12; second_edge = 16; third_edge = 11; Density = 11; Area = 1000
+8) This is Parallelepiped: first_edge = 15; second_edge = 13; third_edge = 10; Density = 17; Area = 950
+9) This is Parallelepiped: first_edge = 14; second_edge = 4; third_edge = 20; Density = 19; Area = 832
+10) This is Parallelepiped: first_edge = 19; second_edge = 18; third_edge = 2; Density = 5; Area = 832
+11) This is Parallelepiped: first_edge = 8; second_edge = 18; third_edge = 9; Density = 3; Area = 756
+12) This is Parallelepiped: first_edge = 20; second_edge = 15; third_edge = 2; Density = 4; Area = 740
+13) This is Parallelepiped: first_edge = 2; second_edge = 15; third_edge = 14; Density = 17; Area = 536
+14) This is Right Tetrahedron: length_of_edge = 16; Density = 10; Area = 443.405
+15) This is Parallelepiped: first_edge = 1; second_edge = 20; third_edge = 8; Density = 6; Area = 376
+16) This is Right Tetrahedron: length_of_edge = 13; Density = 13; Area = 292.717
+17) This is Parallelepiped: first_edge = 3; second_edge = 4; third_edge = 17; Density = 3; Area = 262
+18) This is Right Tetrahedron: length_of_edge = 11; Density = 20; Area = 209.578
+19) This is Parallelepiped: first_edge = 3; second_edge = 5; third_edge = 10; Density = 5; Area = 190
+20) This is Sphere: radius = 3; Density = 4; Area = 113.097
+21) This is Right Tetrahedron: length_of_edge = 7; Density = 13; Area = 84.8705
+22) This is Right Tetrahedron: length_of_edge = 6; Density = 7; Area = 62.3538
+23) This is Right Tetrahedron: length_of_edge = 5; Density = 1; Area = 43.3013
+24) This is Right Tetrahedron: length_of_edge = 3; Density = 19; Area = 15.5885
+25) This is Right Tetrahedron: length_of_edge = 1; Density = 19; Area = 1.73205
