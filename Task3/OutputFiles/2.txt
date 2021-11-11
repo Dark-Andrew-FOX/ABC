@@ -1,0 +1,12 @@
+Container contains  5 elements.
+1 ) This is Sphere: radius = 3; density: 10; Area = 113.09733552923255
+2 ) This is Sphere: radius = 4; density: 12; Area = 201.06192982974676
+3 ) This is Sphere: radius = 5; density: 13; Area = 314.1592653589793
+4 ) This is Parallelepiped: first_edge = 3; second_edge = 4; third_edge = 5; density: 14; Area = 94
+5 ) This is RightTetrahedron: length_of_edge = 11; density: 15; Area = 209.57814771583415
+Container contains  5 elements.
+1 ) This is Sphere: radius = 5; density: 13; Area = 314.1592653589793
+2 ) This is RightTetrahedron: length_of_edge = 11; density: 15; Area = 209.57814771583415
+3 ) This is Sphere: radius = 4; density: 12; Area = 201.06192982974676
+4 ) This is Sphere: radius = 3; density: 10; Area = 113.09733552923255
+5 ) This is Parallelepiped: first_edge = 3; second_edge = 4; third_edge = 5; density: 14; Area = 94

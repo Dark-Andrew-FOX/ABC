@@ -1,0 +1,8 @@
+Container contains  3 elements.
+1 ) This is Sphere: radius = 1; density: 1; Area = 12.566370614359172
+2 ) This is Parallelepiped: first_edge = 1; second_edge = 2; third_edge = 3; density: 1; Area = 22
+3 ) This is RightTetrahedron: length_of_edge = 1; density: 1; Area = 1.7320508075688772
+Container contains  3 elements.
+1 ) This is Parallelepiped: first_edge = 1; second_edge = 2; third_edge = 3; density: 1; Area = 22
+2 ) This is Sphere: radius = 1; density: 1; Area = 12.566370614359172
+3 ) This is RightTetrahedron: length_of_edge = 1; density: 1; Area = 1.7320508075688772

@@ -1,0 +1,52 @@
+Container contains  25 elements.
+1 ) This is Sphere: radius = 17; density: 14; Area = 3631.681107549801
+2 ) This is Parallelepiped: first_edge = 7; second_edge = 11; third_edge = 17; density: 4; Area = 766
+3 ) This is RightTetrahedron: length_of_edge = 11; density: 12; Area = 209.57814771583415
+4 ) This is RightTetrahedron: length_of_edge = 18; density: 17; Area = 561.1844616523163
+5 ) This is Parallelepiped: first_edge = 18; second_edge = 18; third_edge = 20; density: 18; Area = 2088
+6 ) This is Parallelepiped: first_edge = 13; second_edge = 15; third_edge = 16; density: 4; Area = 1286
+7 ) This is RightTetrahedron: length_of_edge = 19; density: 12; Area = 625.2703415323647
+8 ) This is RightTetrahedron: length_of_edge = 13; density: 17; Area = 292.71658647914023
+9 ) This is Parallelepiped: first_edge = 13; second_edge = 11; third_edge = 9; density: 11; Area = 718
+10 ) This is Sphere: radius = 18; density: 12; Area = 4071.5040790523717
+11 ) This is Parallelepiped: first_edge = 4; second_edge = 13; third_edge = 12; density: 16; Area = 512
+12 ) This is RightTetrahedron: length_of_edge = 5; density: 2; Area = 43.30127018922193
+13 ) This is Parallelepiped: first_edge = 15; second_edge = 5; third_edge = 1; density: 4; Area = 190
+14 ) This is Parallelepiped: first_edge = 18; second_edge = 6; third_edge = 2; density: 17; Area = 312
+15 ) This is Parallelepiped: first_edge = 14; second_edge = 5; third_edge = 12; density: 1; Area = 596
+16 ) This is RightTetrahedron: length_of_edge = 11; density: 3; Area = 209.57814771583415
+17 ) This is Sphere: radius = 20; density: 6; Area = 5026.548245743669
+18 ) This is Sphere: radius = 4; density: 6; Area = 201.06192982974676
+19 ) This is RightTetrahedron: length_of_edge = 18; density: 16; Area = 561.1844616523163
+20 ) This is Parallelepiped: first_edge = 6; second_edge = 11; third_edge = 8; density: 7; Area = 404
+21 ) This is Parallelepiped: first_edge = 1; second_edge = 13; third_edge = 18; density: 6; Area = 530
+22 ) This is Parallelepiped: first_edge = 2; second_edge = 2; third_edge = 14; density: 5; Area = 120
+23 ) This is Sphere: radius = 15; density: 11; Area = 2827.4333882308138
+24 ) This is Sphere: radius = 19; density: 14; Area = 4536.459791783661
+25 ) This is RightTetrahedron: length_of_edge = 1; density: 3; Area = 1.7320508075688772
+Container contains  25 elements.
+1 ) This is Sphere: radius = 20; density: 6; Area = 5026.548245743669
+2 ) This is Sphere: radius = 19; density: 14; Area = 4536.459791783661
+3 ) This is Sphere: radius = 18; density: 12; Area = 4071.5040790523717
+4 ) This is Sphere: radius = 17; density: 14; Area = 3631.681107549801
+5 ) This is Sphere: radius = 15; density: 11; Area = 2827.4333882308138
+6 ) This is Parallelepiped: first_edge = 18; second_edge = 18; third_edge = 20; density: 18; Area = 2088
+7 ) This is Parallelepiped: first_edge = 13; second_edge = 15; third_edge = 16; density: 4; Area = 1286
+8 ) This is Parallelepiped: first_edge = 7; second_edge = 11; third_edge = 17; density: 4; Area = 766
+9 ) This is Parallelepiped: first_edge = 13; second_edge = 11; third_edge = 9; density: 11; Area = 718
+10 ) This is RightTetrahedron: length_of_edge = 19; density: 12; Area = 625.2703415323647
+11 ) This is Parallelepiped: first_edge = 14; second_edge = 5; third_edge = 12; density: 1; Area = 596
+12 ) This is RightTetrahedron: length_of_edge = 18; density: 17; Area = 561.1844616523163
+13 ) This is RightTetrahedron: length_of_edge = 18; density: 16; Area = 561.1844616523163
+14 ) This is Parallelepiped: first_edge = 1; second_edge = 13; third_edge = 18; density: 6; Area = 530
+15 ) This is Parallelepiped: first_edge = 4; second_edge = 13; third_edge = 12; density: 16; Area = 512
+16 ) This is Parallelepiped: first_edge = 6; second_edge = 11; third_edge = 8; density: 7; Area = 404
+17 ) This is Parallelepiped: first_edge = 18; second_edge = 6; third_edge = 2; density: 17; Area = 312
+18 ) This is RightTetrahedron: length_of_edge = 13; density: 17; Area = 292.71658647914023
+19 ) This is RightTetrahedron: length_of_edge = 11; density: 3; Area = 209.57814771583415
+20 ) This is RightTetrahedron: length_of_edge = 11; density: 12; Area = 209.57814771583415
+21 ) This is Sphere: radius = 4; density: 6; Area = 201.06192982974676
+22 ) This is Parallelepiped: first_edge = 15; second_edge = 5; third_edge = 1; density: 4; Area = 190
+23 ) This is Parallelepiped: first_edge = 2; second_edge = 2; third_edge = 14; density: 5; Area = 120
+24 ) This is RightTetrahedron: length_of_edge = 5; density: 2; Area = 43.30127018922193
+25 ) This is RightTetrahedron: length_of_edge = 1; density: 3; Area = 1.7320508075688772

@@ -1,0 +1,12 @@
+Container contains  5 elements.
+1 ) This is Sphere: radius = 26; density: 2; Area = 8494.8665353068
+2 ) This is Sphere: radius = 45; density: 3; Area = 25446.900494077323
+3 ) This is Sphere: radius = 50; density: 7; Area = 31415.926535897932
+4 ) This is Sphere: radius = 37; density: 5; Area = 17203.36137105771
+5 ) This is Sphere: radius = 39; density: 6; Area = 19113.4497044403
+Container contains  5 elements.
+1 ) This is Sphere: radius = 50; density: 7; Area = 31415.926535897932
+2 ) This is Sphere: radius = 45; density: 3; Area = 25446.900494077323
+3 ) This is Sphere: radius = 39; density: 6; Area = 19113.4497044403
+4 ) This is Sphere: radius = 37; density: 5; Area = 17203.36137105771
+5 ) This is Sphere: radius = 26; density: 2; Area = 8494.8665353068
